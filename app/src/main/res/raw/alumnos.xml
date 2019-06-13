@@ -92,4 +92,9 @@
         <grupo>GrupoX</grupo>
         <foto>sdiaz</foto>
     </alumno>
+    <alumno id="38616179">
+        <nombre>Jonas</nombre>
+        <grupo>Grupo 7</grupo>
+        <foto>jonas</foto>
+    </alumno>
 </alumnos>
