@@ -85,4 +85,14 @@
         <foto>ravinale</foto>
     </alumno>
 
+    <alumno id="31606997">
+        <nombre>Sebastian Diaz</nombre>
+        <grupo>GrupoX</grupo>
+        <foto>sdiaz</foto>
+    </alumno>
+    <alumno id="38616179">
+        <nombre>Jonas</nombre>
+        <grupo>Grupo 7</grupo>
+        <foto>jonas</foto>
+    </alumno>
 </alumnos>
