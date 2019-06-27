@@ -7,6 +7,11 @@
             <foto>ferragut</foto>
 
         </alumno>
+        <alumno id="2">
+            <nombre>David Gonzalez</nombre>
+            <grupo>alumno</grupo>
+            <foto>dgonzalez</foto>
+        </alumno>
 
         <alumno id = "77">
             <nombre>Santiago Sambataro</nombre>
@@ -72,8 +77,12 @@
         <nombre>Mariana Carballal</nombre>
         <grupo>Grupo 10</grupo>
         <foto>carballal</foto>
-
     </alumno>
 
+    <alumno id="35316888">
+        <nombre>Facundo Ravinale</nombre>
+        <grupo>Alumno</grupo>
+        <foto>ravinale</foto>
+    </alumno>
 
 </alumnos>
