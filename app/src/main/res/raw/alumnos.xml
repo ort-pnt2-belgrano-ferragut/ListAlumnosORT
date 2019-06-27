@@ -88,4 +88,10 @@
 
         </alumno>
 
+    <alumno id="38709714">
+        <nombre>Federico Sassy</nombre>
+        <grupo>Grupo04</grupo>
+        <foto>sassy</foto>
+    </alumno>
+
 </alumnos>
