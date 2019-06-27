@@ -85,4 +85,13 @@
         <foto>ravinale</foto>
     </alumno>
 
+
+
+    <alumno id="347111040">
+        <nombre>Javier Niz</nombre>
+        <grupo>Grupo4</grupo>
+        <foto>fotojavi</foto>
+    </alumno>
+
+
 </alumnos>
