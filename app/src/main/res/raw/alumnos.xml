@@ -31,7 +31,7 @@
             <grupo>Alumno</grupo>
             <foto>bwider</foto>
         </alumno>
-		
+
 		<alumno id="27">
             <nombre>Mariano Añino</nombre>
             <grupo>Alumno</grupo>
@@ -43,7 +43,7 @@
             <grupo>Alumno</grupo>
             <foto>sanchez</foto>
         </alumno>
-    
+
         <alumno id="69">
             <nombre>Nicolas Litardo</nombre>
             <grupo>Alumno</grupo>
@@ -73,29 +73,13 @@
         <grupo>Alumno</grupo>
         <foto>jzevallos</foto>
     </alumno>
+        <alumno id="2">
+            <nombre>Adrian Iglesia</nombre>
+            <grupo>G7-Control de Asistencia</grupo>
+            <foto>iglesia</foto>
+
+        </alumno>
 
 
-    <alumno id="24">
-        <nombre>Ezequiel Martinez</nombre>
-        <grupo>Grupo 10</grupo>
-        <foto>emartinez</foto>
-    </alumno>
 
-    <alumno id="25">
-        <nombre>Leandro Furyk</nombre>
-        <grupo>Grupo 10</grupo>
-        <foto>lfuryk</foto>
-    </alumno>
-
-    <alumno id="31606997">
-        <nombre>Sebastian Diaz</nombre>
-        <grupo>GrupoX</grupo>
-        <foto>sdiaz</foto>
-    </alumno>
-
-    <alumno id="33985295">
-        <nombre>Franco García</nombre>
-        <grupo>Grupo 22</grupo>
-        <foto>fgarcia</foto>
-    </alumno>
 </alumnos>
