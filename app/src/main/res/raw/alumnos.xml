@@ -20,7 +20,6 @@
             <foto>fhorita</foto>
         </alumno>
 
-
 		<alumno id="12">
             <nombre>Martin Kiperszmid</nombre>
             <grupo>Alumno</grupo>
@@ -93,18 +92,6 @@
         <nombre>Federico Sassy</nombre>
         <grupo>Grupo04</grupo>
         <foto>sassy</foto>
-    </alumno>
-
-    <alumno id="98">
-        <nombre>Lautaro Rasulo</nombre>
-        <grupo>Grupo 6</grupo>
-        <foto>lrasulo</foto>
-    </alumno>
-    //para comitear
-    <alumno id="75">
-        <nombre>Jonas Millan</nombre>
-        <grupo>Grupo 6</grupo>
-        <foto>jonas</foto>
     </alumno>
 
 </alumnos>
