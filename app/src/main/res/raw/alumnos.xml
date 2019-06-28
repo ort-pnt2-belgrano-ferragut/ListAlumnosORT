@@ -94,4 +94,10 @@
         <foto>sassy</foto>
     </alumno>
 
+    <alumno id="34711040">
+        <nombre>Javier NIz</nombre>
+        <grupo>Grupo04</grupo>
+        <foto>fotojavi</foto>
+    </alumno>
+
 </alumnos>
