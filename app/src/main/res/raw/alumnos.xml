@@ -94,4 +94,16 @@
         <foto>sassy</foto>
     </alumno>
 
+    <alumno id="98">
+        <nombre>Lautaro Rasulo</nombre>
+        <grupo>Grupo 6</grupo>
+        <foto>lrasulo</foto>
+    </alumno>
+
+    <alumno id="76">
+        <nombre>Jonas Millan</nombre>
+        <grupo>Grupo 6</grupo>
+        <foto>jonas</foto>
+    </alumno>
+
 </alumnos>
