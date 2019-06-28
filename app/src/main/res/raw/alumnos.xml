@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <alumnos>
 
+        <alumno id="93649488">
+            <nombre>Cecilia Quintana</nombre>
+            <grupo>Grupo4</grupo>
+            <foto>ceciliaquintana</foto>
+        </alumno>
+
+
         <alumno id="1">
             <nombre>Sofia Ferragut</nombre>
             <grupo>Profe</grupo>
@@ -92,12 +99,6 @@
         <nombre>Federico Sassy</nombre>
         <grupo>Grupo04</grupo>
         <foto>sassy</foto>
-    </alumno>
-
-    <alumno id="34711040">
-        <nombre>Javier NIz</nombre>
-        <grupo>Grupo04</grupo>
-        <foto>fotojavi</foto>
     </alumno>
 
 </alumnos>
