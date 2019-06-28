@@ -101,4 +101,10 @@
         <foto>sassy</foto>
     </alumno>
 
+        <alumno id="85">
+            <nombre>Santiago Morel</nombre>
+            <grupo>Alumno</grupo>
+            <foto>smorel</foto>
+        </alumno>
+
 </alumnos>
