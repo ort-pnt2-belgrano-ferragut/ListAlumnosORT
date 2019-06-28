@@ -12,7 +12,7 @@
             <grupo>Profe</grupo>
             <foto>ferragut</foto>
 
-        </alumno>
+        </alumno>//c
 
         <alumno id = "77">
             <nombre>Santiago Sambataro</nombre>
